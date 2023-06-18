@@ -1,3 +1,5 @@
+# https://practice.geeksforgeeks.org/problems/ticket-counter-2731/1
+
 def distributeTicket(N : int, K : int) -> int:
     nums = range(N)
     start, end = 0, N-1
